@@ -111,26 +111,26 @@ When the button was released, both LEDs turned off. Rotating the potentiometer w
 
 ## Documentation
 
-### Circuit Setup
+<img width="4096" height="2304" alt="Unknown-6" src="https://github.com/user-attachments/assets/63548a74-8c20-437a-8334-636304942076" />
 
-[Insert image here]
+<img width="2048" height="1330" alt="Unknown-7" src="https://github.com/user-attachments/assets/f051d6c3-50c5-459c-98de-c212630e420b" />
 
-### Button Released
+<img width="2048" height="1330" alt="Unknown-8" src="https://github.com/user-attachments/assets/e300da38-8964-4e5c-a5f8-511735851b61" />
 
-[Insert image here]
+<img width="2048" height="1330" alt="Unknown-9" src="https://github.com/user-attachments/assets/736934c4-563c-4582-8cb4-9d5c7e88bb8e" />
 
-### Button Held
+<img width="2048" height="1330" alt="Unknown-10" src="https://github.com/user-attachments/assets/ce50c702-5034-4594-8293-07991b480e4f" />
 
-[Insert image here]
+<img width="2048" height="1330" alt="Unknown-11" src="https://github.com/user-attachments/assets/5437486d-9dc9-41f8-9ca4-1411a104ba7e" />
 
-### Low Brightness
+<img width="2048" height="1330" alt="Unknown-12" src="https://github.com/user-attachments/assets/5ed6ceee-47ed-4415-ab5f-5c1eb0a9a7c9" />
 
-[Insert image here]
+https://github.com/user-attachments/assets/df45f69a-fe38-4154-8b3e-2b562ced9f3e
 
-### Middle Brightness
+https://github.com/user-attachments/assets/c8386101-eb64-47e9-9dc4-f1aaa23169b0
 
-[Insert image here]
+https://github.com/user-attachments/assets/78d650f9-69f2-452a-9fa7-4db7c3b146b9
 
-### High Brightness
+https://github.com/user-attachments/assets/104b44d0-50d5-4425-a81a-c8249a40736d
 
-[Insert image here]
+https://github.com/user-attachments/assets/88bbb5f8-7e3f-47e7-8089-fc5a3a140375
